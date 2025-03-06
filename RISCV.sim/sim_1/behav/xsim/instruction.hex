@@ -1,0 +1,8 @@
+00e00093        //addi x1 x0 14
+00f00113        //addi x2 x0 15
+008001ef        //jal x3 8
+00200013        //addi x0 x0 4
+00400013        //addi x0 x0 0
+fe209ae3        //bne x1 x2 -12
+00000013        //addi x0 x0 0
+00000013        //addi x0 x0 0
